@@ -25,5 +25,5 @@
 ## Solução Proposta
 
 <div align="center">
-  <img src="imagens/EDN-solucao.png"/>
+  <img src="imagens/EDN-solucao-final.png"/>
 </div>
